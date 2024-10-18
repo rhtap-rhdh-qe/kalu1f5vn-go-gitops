@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kalu1f5vn-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kalu1f5vn-go
